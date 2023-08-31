@@ -1,4 +1,4 @@
-# Researcher in Speech Processing, Automatic Speech Recognition (ASR) and Automatic Pronunciation Assessment (APA).
+# Researcher in Speech Processing.
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
